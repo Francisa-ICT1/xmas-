@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Grade 11 - Section A | Christmas Party 2025</title>
+  <title>Grade 11 - Numbers | Christmas Party 2025</title>
   <style>
     :root {
       --bg:#0f1723; --accent:#c0392b; --accent2:#f7c948; --muted:#cbd5e1;
