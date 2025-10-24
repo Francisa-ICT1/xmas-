@@ -74,11 +74,11 @@
         </ul>
         <h3>RSVP & Contact</h3>
         <p>Email: <a href="mailto:classA.rsvp@example.com">classA.rsvp@example.com</a></p>
-        <p>Contact: Ms. Sharmaine Gonzales — <a href="tel:+639171234567">+63 917 123 4567</a></p>
+        <p>Contact: MR Francisa — <a href="tel:+639171234567">+63 917 123 4567</a></p>
       </aside>
     </main>
     <footer>
-      <p>Designed by Grade 11 — Section A | Unida Christian Colleges</p>
+      <p>Designed by Grade 11 — Numbers | Unida Christian Colleges</p>
       <audio id="xmasSong" loop>
         <source src="https://files.freemusicarchive.org/storage-freemusicarchive-org/music/no_curator/Scott_Holmes_Music/Christmas_Background_Music/Scott_Holmes_Music_-_12_-_Its_Christmas_Time.mp3" type="audio/mpeg">
       </audio>
